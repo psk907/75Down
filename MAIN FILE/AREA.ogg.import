@@ -1,0 +1,18 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/AREA.ogg-14a607c434e3d3a54f4739398cad522b.oggstr"
+
+[deps]
+
+source_file="res://MAIN FILE/AREA.ogg"
+source_md5="13dcd9b7fe075f10749a80b15cc0d458"
+
+dest_files=[ "res://.import/AREA.ogg-14a607c434e3d3a54f4739398cad522b.oggstr" ]
+dest_md5="28ba87464c2f213cd731590fee7c3d78"
+
+[params]
+
+loop=true
+loop_offset=0
